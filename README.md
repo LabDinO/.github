@@ -39,8 +39,8 @@ We welcome contributions and collaboration! If you are interested in contributin
 
 ## Contact Us
 
-- **Email:** [dino.lab.ufsc@gmail.com]
-- **Website:** [Ocean Dynamic Laboratory Website]([https://example.com](https://labdino.paginas.ufsc.br/)
+- **Email:** dino.lab.ufsc@gmail.com
+- **Website:** https://labdino.paginas.ufsc.br/
 
 Follow us on [Twitter](https://twitter.com/OceanDynamicLab) for updates!
 
