@@ -26,8 +26,8 @@ The Ocean Dynamic Laboratory is dedicated to the study of ocean dynamics, climat
 
 List some ongoing or recent projects that showcase the diversity and depth of your research.
 
-1. Project A: Brief description.
-2. Project B: Brief description.
+1. The use of neural network for Passive Acoustic Monitoring: .
+2. Wheather : Brief description.
 3. ...
 
 ## Team Photo
